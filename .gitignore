@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+backend/chroma_db/
+
+# Node
+node_modules/
+frontend/dist/
+.eslintcache
+
+# Docker
+.docker
+
+# OS
+.DS_Store
+Thumbs.db
